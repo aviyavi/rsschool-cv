@@ -1,2 +1,9 @@
-# Авия Ананикян 📧 avia.ananikian@gmail.com | [GitHub](https://github.com/aviyavi) ## Summary Aspiring Frontend Developer, currently studying at RS School. Looking for a Junior position to start my career in web development. Passionate about clean code and continuous learning. ## Skills - HTML, CSS, JavaScript - Git, GitHub - Basic React - Responsive Web Design ## Experience ### RS School — Student *2026 — present* - Completed HTML/CSS/JS assignments as part of the course curriculum - Participated in Cross-Check peer code reviews - Worked with Git: branching, merging, rebase, Pull Requests ## Education Высшая школа экономики 2018-2022 ## Languages - Russian — Native - English — [B1]
+# Авия Ананикян 📧 avia.ananikian@gmail.com | GitHub](https://github.com/aviyavi3. Дизайнер, программист и инженер. Наа курсе, чтобы углубить знания в программировании. 4.  html / css /js 
+5. 2017 год - стажер - дизайнер банк "рессенс кредит"
+2018 - стажер - инженер "мианстрой"
+2023 - инженер-строитель
+7. Высшая школа экономики, факультет коммуникаций, медиа и дизайна. дизайн и программирование - 2018-2022
+Академия верстки - 2016  год, верстальщик
+Английский - b1
+:
 
